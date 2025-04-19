@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from B_featureExtraction import companies_df, taxonomy_keywords
+from dictionary_based_solution.B_featureExtraction import companies_df, taxonomy_keywords
 
 # Exemplu de potrivire optimizată folosind CountVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
