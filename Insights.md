@@ -43,7 +43,7 @@ Flexibilitate: Taxonomia si pragurile pot fi adaptate si ajustate rapid pentru a
 
 Valoarea pragului: Ajustarea pragului poate ajuta la eliminarea rezultatelor false pozitive.
 
-# Puncte Slabe
+### Puncte Slabe
 Lipsa intelegerii Semantice: Solutia se bazeaza doar pe potrivirea cuvintelor, nu pe intelegerea contextului sau a sinonimelor.
 
 Sensibilitate la Vocabular: Daca descrierile companiilor folosesc termeni diferiti de cei din taxonomie, clasificarea poate fi inexacta.
