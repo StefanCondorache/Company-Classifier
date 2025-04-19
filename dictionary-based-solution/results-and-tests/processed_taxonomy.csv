@@ -1,0 +1,221 @@
+label,processed_label
+Agricultural Equipment Services,agricultural equipment services
+Soil Nutrient Application Services,soil nutrient application services
+Pesticide Application Services,pesticide application services
+Ornamental Plant Nurseries,ornamental plant nurseries
+Landscaping Services,landscaping services
+Gardening Services,gardening services
+Tree Services - Pruning / Removal,tree services pruning removal
+Veterinary Services,veterinary services
+Veterinary Clinics,veterinary clinics
+Pet Boarding Services,pet boarding services
+Animal Day Care Services,animal day care services
+Pet Grooming Services,pet grooming services
+Animal Training Services,animal training services
+Veterinary Health Centers,veterinary health centers
+Animal Trainers,animal trainers
+Livestock Dealer Services,livestock dealer services
+Timber Harvesting Operations,timber harvesting operations
+Fishing and Hunting Services,fishing hunting services
+Well Maintenance Services,well maintenance services
+Field Welding Services,field welding services
+Sand and Gravel Mining,sand gravel mining
+Residential Driveway Construction,residential driveway construction
+Commercial Driveway Construction,commercial driveway construction
+Fencing Construction Services,fencing construction services
+Sidewalk Construction Services,sidewalk construction services
+Commercial Irrigation Systems,commercial irrigation systems
+Residential Drainage Systems,residential drainage systems
+Residential Snow Removal,residential snow removal
+Commercial Snow Removal,commercial snow removal
+General Snow Removal Services,general snow removal services
+Land Leveling Services,land leveling services
+Residential Drain Cleaning,residential drain cleaning
+Commercial Drain Cleaning,commercial drain cleaning
+Street Cleaning Operations,street cleaning operations
+Conveyor System Installation,conveyor system installation
+Low-Rise Signage Installation,low rise signage installation
+High-Rise Signage Installation,high rise signage installation
+Tank Installation Services,tank installation services
+Residential Communication Equipment Installation,residential communication equipment installation
+Commercial Communication Equipment Installation,commercial communication equipment installation
+Low-Rise Glass Installation,low rise glass installation
+High-Rise Glass Installation,high rise glass installation
+Industrial Machinery Installation,industrial machinery installation
+Agricultural Machinery Installation,agricultural machinery installation
+Grain Handling Machinery Installation,grain handling machinery installation
+Dock and Pier Construction,dock pier construction
+Road and Highway Construction,road highway construction
+Road Maintenance Services,road maintenance services
+Pipeline Construction Services,pipeline construction services
+New Ground Pipeline Installation,new ground pipeline installation
+Excavation Services,excavation services
+Residential Plumbing Services,residential plumbing services
+Commercial Plumbing Services,commercial plumbing services
+Industrial Plumbing Services,industrial plumbing services
+Boiler Installation Services,boiler installation services
+Boiler Repair Services,boiler repair services
+Steam Services,steam services
+Gas Installation Services,gas installation services
+Medical Gas Installation Services,medical gas installation services
+Fire Protection System Services,fire protection system services
+HVAC Installation and Service,hvac installation service
+HVAC Inspections,hvac inspections
+Air Duct Cleaning Services,air duct cleaning services
+Water Treatment Services,water treatment services
+Residential Electrical Services,residential electrical services
+Commercial Electrical Services,commercial electrical services
+Alarm Installation Services,alarm installation services
+Electric Line Construction,electric line construction
+Cable Installation Services,cable installation services
+Elevator Installation Services,elevator installation services
+Low-Rise Foundation Construction,low rise foundation construction
+High-Rise Foundation Construction,high rise foundation construction
+Precast Concrete Installation,precast concrete installation
+Tilt-Up Concrete Services,tilt concrete services
+Masonry Construction Services,masonry construction services
+Drywall Services,drywall services
+Tile Installation Services,tile installation services
+Carpentry Services,carpentry services
+Millwork Services,millwork services
+General Handyman Services,general handyman services
+Insulation Services,insulation services
+Painting Services,painting services
+Spray Painting Services,spray painting services
+Flooring Installation Services,flooring installation services
+Interior Design Services,interior design services
+Home Staging Services,home staging services
+Sheet Metal Services,sheet metal services
+Welding Services,welding services
+Structural Steel Erection,structural steel erection
+Non-Structural Steel Fabrication,non structural steel fabrication
+Windows and Doors Installation,windows doors installation
+Well Drilling Services,well drilling services
+Directional Drilling Services,directional drilling services
+Infrastructure Excavation,infrastructure excavation
+New Ground Excavation,new ground excavation
+Residential Roofing Services,residential roofing services
+Roofing Services with Heat Application,roofing services heat application
+Waterproofing Services,waterproofing services
+Septic System Services,septic system services
+Building Cleaning Services,building cleaning services
+Fire Safety Equipment Services,fire safety equipment services
+Testing and Inspection Services,testing inspection services
+Single Family Residential Construction,single family residential construction
+Single Family Renovation Services,single family renovation services
+Multi-Family Construction Services,multi family construction services
+Apartment Renovation Services,apartment renovation services
+Restoration Services,restoration services
+Mobile Home Construction Services,mobile home construction services
+Commercial Construction Services,commercial construction services
+Commercial Renovation Services,commercial renovation services
+Swimming Pool Installation Services,swimming pool installation services
+Swimming Pool Maintenance Services,swimming pool maintenance services
+Vacant Building Management,vacant building management
+Vacant Land Services,vacant land services
+Meat Processing Services,meat processing services
+Seafood Processing Services,seafood processing services
+Dairy Production Services,dairy production services
+Frozen Food Processing,frozen food processing
+Ice Production Services,ice production services
+Canning Services,canning services
+Animal Feed Manufacturing,animal feed manufacturing
+Pet Food Manufacturing,pet food manufacturing
+Grain Processing Services,grain processing services
+Coffee Processing Services,coffee processing services
+Seed Processing Services,seed processing services
+Bakery Production Services,bakery production services
+Confectionery Manufacturing,confectionery manufacturing
+Distilling Services,distilling services
+Brewery Operations,brewery operations
+Non-Alcoholic Beverage Manufacturing,non alcoholic beverage manufacturing
+Oil and Fat Manufacturing,oil fat manufacturing
+Rendering Services,rendering services
+Textile Manufacturing Services,textile manufacturing services
+Carpet Manufacturing Services,carpet manufacturing services
+Apparel Manufacturing,apparel manufacturing
+Accessory Manufacturing,accessory manufacturing
+Children's Clothing Manufacturing,children clothing manufacturing
+Window Treatment Manufacturing,window treatment manufacturing
+Canvas Manufacturing,canvas manufacturing
+Rope Production Services,rope production services
+Tent Manufacturing Services,tent manufacturing services
+Wood Product Manufacturing,wood product manufacturing
+Window and Door Manufacturing,window door manufacturing
+Cabinetry Manufacturing,cabinetry manufacturing
+Trim Manufacturing,trim manufacturing
+Pallet Manufacturing,pallet manufacturing
+Furniture Manufacturing,furniture manufacturing
+Bedding Manufacturing,bedding manufacturing
+Paper Production Services,paper production services
+Stationery Manufacturing,stationery manufacturing
+Publishing Services,publishing services
+Printing Services,printing services
+Gas Manufacturing Services,gas manufacturing services
+Ink Production Services,ink production services
+Plastic Manufacturing,plastic manufacturing
+Cosmetic Manufacturing,cosmetic manufacturing
+Soap Production Services,soap production services
+Chemical Manufacturing,chemical manufacturing
+Asphalt Production Services,asphalt production services
+Rubber Manufacturing,rubber manufacturing
+Plastic Signage Production,plastic signage production
+Media Production Services,media production services
+Software Manufacturing,software manufacturing
+Food Processing Services,food processing services
+Pharmaceutical Manufacturing,pharmaceutical manufacturing
+Laboratory Services,laboratory services
+Waste Management Services,waste management services
+Recycling Services,recycling services
+Environmental Consulting,environmental consulting
+Property Management Services,property management services
+Real Estate Services,real estate services
+Insurance Services,insurance services
+Financial Services,financial services
+Legal Services,legal services
+Consulting Services,consulting services
+Marketing Services,marketing services
+Human Resources Services,human resources services
+Management Consulting,management consulting
+Business Development Services,business development services
+Project Management Services,project management services
+Technology Consulting,technology consulting
+Software Development Services,software development services
+Data Analysis Services,data analysis services
+Market Research Services,market research services
+Strategic Planning Services,strategic planning services
+Training Services,training services
+Public Relations Services,public relations services
+Event Planning Services,event planning services
+Catering Services,catering services
+Travel Services,travel services
+Digital Marketing Services,digital marketing services
+E-Commerce Services,e commerce services
+Online Marketing Services,online marketing services
+Content Creation Services,content creation services
+Website Development Services,website development services
+SEO Services,seo services
+Social Media Services,social media services
+Branding Services,branding services
+Graphic Design Services,graphic design services
+Advertising Services,advertising services
+Corporate Training Services,corporate training services
+Health and Safety Consulting,health safety consulting
+Food Safety Services,food safety services
+Quality Assurance Services,quality assurance services
+Compliance Services,compliance services
+Environmental Health Services,environmental health services
+Risk Assessment Services,risk assessment services
+Crisis Management Services,crisis management services
+Community Engagement Services,community engagement services
+Stakeholder Services,stakeholder services
+Corporate Responsibility Services,corporate responsibility services
+Fundraising Services,fundraising services
+Volunteer Services,volunteer services
+Non-Profit Management,non profit management
+Arts Services,arts services
+Sports Management Services,sports management services
+Fitness Coaching,fitness coaching
+Health Promotion Services,health promotion services
+Physical Therapy Services,physical therapy services
+Occupational Health Services,occupational health services
