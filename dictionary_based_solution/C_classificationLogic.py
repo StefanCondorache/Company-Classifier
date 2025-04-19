@@ -75,7 +75,12 @@ for idx, company in companies_df.iterrows():
 results_df = pd.DataFrame(results)
 companies_df = companies_df.reset_index()
 final_df = pd.merge(companies_df, results_df[['company_index', 'insurance_label']], left_on='index', right_on='company_index')
-final_df = final_df.drop(columns=['company_index'])
+
+final_df = final_df.drop(columns=['company_index', 'processed_description', 'processed_tags', 'processed_sector', 'processed_category', 'processed_niche', 'consolidated_info'])
+
+
+
+final_df.to_csv('insurance_labels.csv', index=False)
 
 print("Classification completed.", end="\n\n")
         

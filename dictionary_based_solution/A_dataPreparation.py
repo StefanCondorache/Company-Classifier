@@ -40,7 +40,7 @@ companies_df['processed_niche'] = companies_df['niche'].apply(preprocess_text)
 taxonomy_df['processed_label'] = taxonomy_df['label'].apply(preprocess_text)
 
 # Salvarea datelor preprocesate pentru verificare
-companies_df.to_csv('processed_companies.csv', index=False)
-taxonomy_df.to_csv('processed_taxonomy.csv', index=False)
+#companies_df.to_csv('processed_companies.csv', index=False)
+#taxonomy_df.to_csv('processed_taxonomy.csv', index=False)
 
 print("Data preprocessing completed.",end="\n\n")
