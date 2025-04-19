@@ -1,4 +1,4 @@
-import pandas as pd
+#import pandas as pd
 
 from A_dataPreparation import companies_df, taxonomy_df
 
