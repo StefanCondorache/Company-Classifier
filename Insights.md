@@ -1,9 +1,9 @@
-## Reflectii asupra Solutiei de Clasificare a Companiilor
+## Reflectii asupra solutiei de clasificare a companiilor
 
 ### Introducere
 Acest document prezinta o analiza detaliata a procesului de creare a solutiei de clasificare a companiilor, inclusiv motivatiile din spatele deciziilor luate, alternativele considerate, punctele forte, punctele slabe si factorii care ar putea influenta functionarea acesteia.
 
-### Procesul de Rezolvare a Problemei
+### Procesul de rezolvare a problemei
 Pasii Urmariti si Gandirea din Spatele Lor 
 intelegerea Problemei (Ce trebuie sa fac?): Primul pas a fost sa inteleg clar ce se cerea. Trebuia sa clasific companii intr-o taxonomie data, folosind informatiile disponibile despre ele. M-am intrebat: "Care sunt datele de intrare? Ce format trebuie sa aiba rezultatul? Cum ma asigur ca clasificarile sunt corecte?"
 
@@ -19,10 +19,10 @@ Validarea Rezultatelor (Este clasificarea corecta?): Avand in vedere lipsa datel
 
 Refacerea si Optimizarea (Pot imbunatati rezultatele?): Pe baza rezultatelor validarii, am ajustat pragul si regulile de potrivire a cuvintelor cheie.
 
-### Motivatia Abordarii Rule-Based
+### Motivatia abordarii rule-based
 Am ales abordarea bazata pe reguli (rule-based) si potrivire de cuvinte cheie (keyword matching) deoarece mi s-a parut cea mai directa si accesibila solutie, avand in vedere lipsa cunostintelor mele in machine learning si ai altor facotri descrisi mai jos.
 
-### Alternative Considerate si Respinse
+### Alternative considerate si respinse
 Modele Machine Learning (ML): Am luat in considerare utilizarea modelelor ML, cum ar fi clasificarea Naive Bayes sau masini cu vectori de suport (SVM). Totusi, acestea necesita date etichetate pentru antrenament, ceea ce nu era disponibil. in plus, modelele ML pot fi "cutii negre", fiind dificil de inteles de ce o companie a fost clasificata intr-un anumit fel.
 
 Embeddings (Word2Vec, GloVe): Desi embeddings ar putea capta similaritati semantice, necesita o cantitate mare de date pentru a fi antrenate eficient. Avand in vedere dimensiunea dataset-ului si lipsa cunostintelor mele in domeniu, am decis sa nu folosesc aceasta abordare.
@@ -33,8 +33,8 @@ TF-IDF si Clustering: Aceste tehnici ar putea ajuta la identificarea grupurilor 
 Am respins abordarile ML complexe din cauza lipsei datelor etichetate si a necesitatii de a mentine o solutie interpretabila.
 Abordarile bazate pe embeddings si clustering ar fi putut adauga complexitate inutila, fara a garanta o acuratete semnificativ mai mare, avand in vedere dimensiunea dataset-ului.
 
-## Analiza Punctelor Forte si Slabe
-### Puncte Forte
+## Analiza punctelor forte si slabe
+### Puncte forte
 Simplitate si Interpretabilitate: Solutia este usor de inteles si de implementat. Regulile de potrivire a cuvintelor cheie pot fi examinate si ajustate cu usurinta.
 
 Nu necesita date de antrenament: Abordarea rule-based functioneaza direct cu datele disponibile, fara a necesita date etichetate.
@@ -43,7 +43,7 @@ Flexibilitate: Taxonomia si pragurile pot fi adaptate si ajustate rapid pentru a
 
 Valoarea pragului: Ajustarea pragului poate ajuta la eliminarea rezultatelor false pozitive.
 
-### Puncte Slabe
+### Puncte slabe
 Lipsa intelegerii Semantice: Solutia se bazeaza doar pe potrivirea cuvintelor, nu pe intelegerea contextului sau a sinonimelor.
 
 Sensibilitate la Vocabular: Daca descrierile companiilor folosesc termeni diferiti de cei din taxonomie, clasificarea poate fi inexacta.
@@ -59,7 +59,7 @@ Vectorizare: Transformarea cuvintelor cheie si a descrierilor companiilor in vec
 
 Baze de Date: Stocarea datelor preprocesate intr-o baza de date optimizata pentru cautari rapide.
 
-### Asumptii si Factori Necunoscuti
+### Asumari si factori necunoscuti
 Calitatea Datelor: Se presupune ca descrierile companiilor si taxonomia sunt precise si cuprinzatoare. Informatii incomplete sau eronate pot afecta negativ acuratetea.
 
 Relevanta Taxonomiei: Taxonomia trebuie sa fie relevanta si actualizata pentru a reflecta corect activitatile companiilor.
