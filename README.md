@@ -14,5 +14,5 @@ Present your results and demonstrate effectiveness.
  - List of Companies: company_list
  - Insurance Taxonomy: insurance_taxonomy
 
-### The dictionary_based_solution is the main code solution producing the primary classification results saved in insurance_labels.csv.
-### While the vector_based_solution serves as an alternative approach with its outputs stored in vector_insurance_labels.csv.
+#### The dictionary_based_solution is the main code solution producing the primary classification results saved in insurance_labels.csv.
+#### While the vector_based_solution serves as an alternative approach with its outputs stored in vector_insurance_labels.csv.
